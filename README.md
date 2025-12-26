@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @gentil-lenoir
-- 👀 Je suis intéressé par la programmation Web et Mobile 
-- 🌱 I’m currently learning
-- 💞️ Je veux collaborer avec tout le monde 
-- 📫 Je suis prêt de travailler avec tout le monde 
-- 😄 Pronouns: GENTIL LE NOIR
-- ⚡ gentillenoir075@gmail.com
-- 📞 (+243) 978 089 552
+I'm Gentil Le NoiR MALIYAMUNGU BALEGAMIRE
+Software Engeneer oriented in Web Developement(HTML CSS JS PHP MySQL ProstgreSQL Laravel, React.js, React Native, Vue.js, Nuxt.js)
+Since a lonmg time, i'm working as Web Developer
+E-mail: gentillenoir065@outlook.com, gentillenoir075@gmail.com, maligentil075@gmail.com
 
 <!---
 gentil-lenoir/gentil-lenoir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
